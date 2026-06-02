@@ -107,7 +107,7 @@ export const PRODUCTS = [
         group: "Power",
         rows: [
           ["System voltage", "48 V"],
-          ["Battery", "Li-ion (LiFePO4 preferred)"],
+          ["Battery", "Li-ion 120Ah"],
           ["Usable energy", "3.0–4.0 kWh"],
           ["Runtime", "4–6 hours per charge"],
         ],
@@ -166,7 +166,7 @@ export const PRODUCTS = [
         group: "Power",
         rows: [
           ["System voltage", "24 V"],
-          ["Battery", "Li-ion (LiFePO4 preferred)"],
+          ["Battery", "Li-ion"],
           ["Usable energy", "1.8–2.5 kWh"],
           ["Runtime", "3–5 hours per charge"],
         ],
